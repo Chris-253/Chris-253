@@ -1,4 +1,4 @@
-#About me 
+#Aboutme 
 
 <!--
 **Chris-253/Chris-253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
